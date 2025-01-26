@@ -93,11 +93,13 @@
 		}
 		strong {
 			font-style: italic;
+			font-size: 1.2rem;
 		}
 		.blur {
 			filter: blur(0.5rem);
 		}
 		.color {
+			color: #212120;
 			background-color: #f3e464;
 		}
 	}
