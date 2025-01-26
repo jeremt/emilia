@@ -1,0 +1,13 @@
+[color-scheme='light'] {
+	--color-fg: #212120;
+	--color-bg: #efecda;
+}
+[color-scheme='dark'] {
+	--color-fg: #efecda;
+	--color-bg: #212120;
+}
+
+body {
+	color: var(--color-fg);
+	background-color: var(--color-bg);
+}
